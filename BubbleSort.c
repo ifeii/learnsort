@@ -2,7 +2,7 @@
  *
  *            FileName: BublleSort.c
  *            Des:      Bublle sort
- *						improved with flag 
+ *                      improved with flag 
  *            Author:   me
  *            Created:  2014.07.06
  *            Modified: 2014.07.06
